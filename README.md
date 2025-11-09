@@ -1,6 +1,6 @@
 # Hi there, I'm Denys Pozniak 👋
 
-## 🚀 VoIPOps Architect | DevOps + VoIP Expert
+## 🚀 VoIPOps Architect | VoIP Expert + DevOps
 
 I've been immersed in the IT industry since 2005, beginning my journey with FreeBSD administration. From there, I transitioned into working extensively with Cisco networking equipment, which paved the way for my eventual move into VoIP. My diverse experience has equipped me with a comprehensive understanding of solution architecture.
 
