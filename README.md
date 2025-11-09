@@ -12,7 +12,6 @@ Today, I identify myself as a **VoIPOps Architect** — a unique blend of DevOps
 
 - **Cisco CCVP/CCNP/CCDP** (CSCO11178125)
 - **Iskratel SI3000**
-- **ITILv3**
 
 ---
 
@@ -20,7 +19,7 @@ Today, I identify myself as a **VoIPOps Architect** — a unique blend of DevOps
 
 ### VoIP Technologies
 ```
-Kamailio | OpenSIPS | FreeSWITCH | Asterisk | Rtpengine | SEMS | Homer
+Kamailio | OpenSIPS | FreeSWITCH | Asterisk | RTPengine | SEMS | Homer
 ```
 
 ### Networking
