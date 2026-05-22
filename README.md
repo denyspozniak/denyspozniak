@@ -61,5 +61,5 @@ I specialize in designing and implementing scalable VoIP solutions with modern D
 
 ## 📖 Featured Project
 
-### [kamailio-handbook](https://github.com/denyspozniak/kamailio-handbook)
+### [kamailio-handbook](https://denyspozniak.github.io/kamailio-handbook/)
 A practical handbook on Kamailio — covering configuration patterns, real-world deployment scenarios, and operational best practices from my hands-on VoIP experience.
