@@ -56,3 +56,10 @@ I specialize in designing and implementing scalable VoIP solutions with modern D
 - ☁️ Cloud-Native VoIP Deployments
 - 🔄 CI/CD for Telecom Systems
 - 📊 Network Design & Optimization
+
+---
+
+## 📖 Featured Project
+
+### [kamailio-handbook](https://github.com/denyspozniak/kamailio-handbook)
+A practical handbook on Kamailio — covering configuration patterns, real-world deployment scenarios, and operational best practices from my hands-on VoIP experience.
