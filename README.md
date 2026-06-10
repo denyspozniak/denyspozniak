@@ -43,6 +43,7 @@ Kubernetes | Docker | Terraform | Ansible | ArgoCD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyspozniak/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://denys-pozniak.medium.com/)
+[![Kamailio Handbook](https://img.shields.io/badge/Kamailio%20Handbook-1A6FB5?style=for-the-badge&logo=gitbook&logoColor=white)](https://denyspozniak.github.io/kamailio-handbook/)
 
 ---
 
