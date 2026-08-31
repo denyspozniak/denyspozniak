@@ -108,10 +108,10 @@ Code of mine is merged upstream in the projects I work with every day:
 ## 📖 Featured Projects
 
 ### [kamailio-handbook](https://denyspozniak.github.io/kamailio-handbook/)
-A practical handbook on Kamailio — covering configuration patterns, real-world deployment scenarios, and operational best practices from my hands-on VoIP experience.
+Deliberately **not** a cookbook — the official docs and the wiki already cover installation and module reference. This one is about the internals: what processes Kamailio forks at startup, how `pkg` and `shm` memory differ, how a SIP message threads through the routing engine, how KEMI bridges C and Lua, and what `topos` and `dmq` actually do underneath. English and Ukrainian.
 
 ### [sems-handbook](https://denyspozniak.github.io/sems-handbook/)
-An architecture-focused handbook on SEMS, in English and Ukrainian — thread model, SIP stack, `AmSession` and the media processor, B2B sessions, plugin and RPC architecture, and how the whole thing sits behind Kamailio.
+The companion volume, same treatment for SEMS. Kamailio owns the signalling plane; SEMS owns the media plane and the B2BUA — read together they cover both. 56 chapters in English and Ukrainian: the thread model (SEMS is threads, not processes), its own SIP stack, `AmSession`, the media processor and its 10 ms tick, the SBC framework, security, production topologies, and where the forks diverged.
 
 ### [OpenSIPS Hover](https://open-vsx.org/extension/denyspozniak/opensips-hover)
 A Cursor / VS Code extension that brings the official OpenSIPS documentation into your editor — hover any keyword in `opensips.cfg` and get module, modparam, function, pseudo-variable and transformation docs inline. [Source](https://github.com/denyspozniak/vscode-opensips-hover)
